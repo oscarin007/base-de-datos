@@ -1,3 +1,5 @@
+Este es un archivo de descripción, coloca los scripts en otro archivo 
+
 # base-de-datos
 -- Database: futbol
 
